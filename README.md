@@ -1,4 +1,4 @@
-# Churn Prediction & RAG – Home Assignment
+# Churn Prediction & RAG 
 
 This repository contains a complete end-to-end solution for a churn prediction
 home assignment, including:
